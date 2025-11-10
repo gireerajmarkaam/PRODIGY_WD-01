@@ -270,7 +270,7 @@ nav {
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    background-image: url(../img/dp.jpg);
+    background-image: url(../img/aboutPhoto.jpg);
     background-position: center;
     background-size: contain;
     margin: 0 auto;
@@ -494,4 +494,5 @@ footer {
         height: 40px;
         font-size: 1rem;
     }
+
 }
